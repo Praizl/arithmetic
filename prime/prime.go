@@ -1,4 +1,4 @@
-package arithmetic
+package prime
 
 func IsPrime(num int) bool {
 	for i := 2; i < int(num/2); i++ {
